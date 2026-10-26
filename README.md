@@ -23,7 +23,7 @@
 ### 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,vite,fastapi,html,css,git,github,linux,vscode&theme=dark" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,ts,js,react,vite,fastapi,html,css,git,github,linux,vscode&theme=dark" alt="Tech stack icons"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
