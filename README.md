@@ -39,6 +39,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| 🚶 [**home-energy**](https://github.com/ryanccalixte/pedestrian-detector) | An AI agent that estimates your appliances' energy usage through computer vision and chat box | React · TensorFlow.js · Ollama · Flask |
 | 🚶 [**pedestrian-detector**](https://github.com/ryanccalixte/pedestrian-detector) | Real-time pedestrian and crosswalk detection with YOLO + pose estimation | Python · YOLO |
 | 📊 [**data-plotter**](https://github.com/ryanccalixte/data-plotter) | Upload a CSV, pick a chart style, get an interactive dashboard | FastAPI · Plotly · pandas |
 | 🧠 [**health-compass**](https://github.com/ryanccalixte/health-compass) | 🥈 **2nd place, 2026 FAU Biotech Hackathon** — raises awareness of Parkinson's risk by flagging early symptoms | TypeScript |
