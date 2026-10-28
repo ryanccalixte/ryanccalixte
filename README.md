@@ -44,7 +44,7 @@
 | 📊 [**data-plotter**](https://github.com/ryanccalixte/data-plotter) | Upload a CSV, pick a chart style, get an interactive dashboard | FastAPI · Plotly · pandas |
 | 🧠 [**health-compass**](https://github.com/ryanccalixte/health-compass) | 🥈 **2nd place, 2026 FAU Biotech Hackathon** — raises awareness of Parkinson's risk by flagging early symptoms | TypeScript |
 | 🏠 [**housing-price-predictor**](https://github.com/ryanccalixte/housing-price-predictor) | Random Forest regression with a full preprocessing pipeline | Python · scikit-learn |
-| 🌐 [**4HTechGarage-Website**](https://github.com/ryanccalixte/4HTechGarage-Website) | Nonprofit site that helped raise **$60,000** | HTML/CSS |
+| 🌐 [**4HTechGarage-Website**](https://github.com/ryanccalixte/4HTechGarage-Website) | Nonprofit site that helped raise **$60,000** | HTML/CSS · Javascript |
 
 ---
 
